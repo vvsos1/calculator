@@ -9,12 +9,12 @@ public class SlippTest {
     }
 
     @Test
-    public void test1() throws Exception {
+    public void test1() {
         System.out.println("test1");
     }
 
     @Test
-    public void test2() throws Exception {
+    public void test2() {
         System.out.println("test2");
     }
 
